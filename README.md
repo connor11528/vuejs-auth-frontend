@@ -5,7 +5,14 @@ Vue.js Frontend Authentication
 
 A frontend codebase for authentication with [Vue.js](https://vuejs.org/) and JWT
 
+## About the app
+
+To log users in, we'll make an HTTP request to our authentication endpoint and save the JWT that is returned in localStorage.
+
 **Vue components** allow us to specify a template, a script, and style rules all in one file.
+
+
+## Setup
 
 Launch server:
 

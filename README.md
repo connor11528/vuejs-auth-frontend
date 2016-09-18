@@ -3,7 +3,7 @@ Vue.js Frontend Authentication
 
 ![](https://vuejs.org/images/logo.png)
 
-A frontend codebase for authentication with [Vue.js](https://vuejs.org/) and JWT
+A frontend codebase for authentication with [Vue.js](https://vuejs.org/) and JWT. Code built from the Auth0 tutorial [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/build-an-app-with-vuejs/)
 
 ## About the app
 
